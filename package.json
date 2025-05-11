@@ -1,0 +1,27 @@
+{
+  "name": "full-backend",
+  "version": "1.0.0",
+  "description": "Ngoc Anh fullstack backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TruongNgocAnh23/fullstack-nodejs-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "NgocAnh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruongNgocAnh23/fullstack-nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/TruongNgocAnh23/fullstack-nodejs-backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
